@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 03 - Dx11의 초기화"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 04 - 버퍼, 셰이더, HLSL", "Tut 04 - 버퍼, 셰이더, HLSL\Tut 04 - 버퍼, 셰이더, HLSL.vcxproj", "{120709CA-BE62-4443-A906-49C140B76312}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 05 - 텍스쳐", "Tut 05 - 텍스쳐\Tut 05 - 텍스쳐.vcxproj", "{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{120709CA-BE62-4443-A906-49C140B76312}.Release|x64.Build.0 = Release|x64
 		{120709CA-BE62-4443-A906-49C140B76312}.Release|x86.ActiveCfg = Release|Win32
 		{120709CA-BE62-4443-A906-49C140B76312}.Release|x86.Build.0 = Release|Win32
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Debug|x64.ActiveCfg = Debug|x64
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Debug|x64.Build.0 = Debug|x64
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Debug|x86.Build.0 = Debug|Win32
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x64.ActiveCfg = Release|x64
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x64.Build.0 = Release|x64
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x86.ActiveCfg = Release|Win32
+		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
