@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 02 - 프레임워크와 윈도우 만들기", "Tut 2 - 프레임워크와 윈도우 만들기\Tut 2 - 프레임워크와 윈도우 만들기.vcxproj", "{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 03 - Dx11의 초기화", "Tut 03 - Dx11의 초기화\Tut 03 - Dx11의 초기화.vcxproj", "{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 04 - 버퍼, 셰이더, HLSL", "Tut 04 - 버퍼, 셰이더, HLSL\Tut 04 - 버퍼, 셰이더, HLSL.vcxproj", "{120709CA-BE62-4443-A906-49C140B76312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Debug|x64.ActiveCfg = Debug|x64
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Debug|x64.Build.0 = Debug|x64
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Debug|x86.ActiveCfg = Debug|Win32
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Debug|x86.Build.0 = Debug|Win32
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Release|x64.ActiveCfg = Release|x64
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Release|x64.Build.0 = Release|x64
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Release|x86.ActiveCfg = Release|Win32
+		{4880B95F-6C74-4BC0-8CDE-79511F9ECC42}.Release|x86.Build.0 = Release|Win32
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Debug|x64.ActiveCfg = Debug|x64
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Debug|x64.Build.0 = Debug|x64
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Debug|x86.Build.0 = Debug|Win32
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Release|x64.ActiveCfg = Release|x64
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Release|x64.Build.0 = Release|x64
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Release|x86.ActiveCfg = Release|Win32
+		{4C473CA4-EBCD-450A-B6A2-C45D4B8E855E}.Release|x86.Build.0 = Release|Win32
+		{120709CA-BE62-4443-A906-49C140B76312}.Debug|x64.ActiveCfg = Debug|x64
+		{120709CA-BE62-4443-A906-49C140B76312}.Debug|x64.Build.0 = Debug|x64
+		{120709CA-BE62-4443-A906-49C140B76312}.Debug|x86.ActiveCfg = Debug|Win32
+		{120709CA-BE62-4443-A906-49C140B76312}.Debug|x86.Build.0 = Debug|Win32
+		{120709CA-BE62-4443-A906-49C140B76312}.Release|x64.ActiveCfg = Release|x64
+		{120709CA-BE62-4443-A906-49C140B76312}.Release|x64.Build.0 = Release|x64
+		{120709CA-BE62-4443-A906-49C140B76312}.Release|x86.ActiveCfg = Release|Win32
+		{120709CA-BE62-4443-A906-49C140B76312}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
