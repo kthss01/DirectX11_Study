@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 04 - 버퍼, 셰이더,
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 05 - 텍스쳐", "Tut 05 - 텍스쳐\Tut 05 - 텍스쳐.vcxproj", "{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 06 - 조명", "Tut 06 - 조명\Tut 06 - 조명.vcxproj", "{BB55A47A-E900-4056-B4D4-7F92E789B9F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x64.Build.0 = Release|x64
 		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x86.ActiveCfg = Release|Win32
 		{B2B2BDA6-0D2A-4425-9825-3B16EE9D7B73}.Release|x86.Build.0 = Release|Win32
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Debug|x64.ActiveCfg = Debug|x64
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Debug|x64.Build.0 = Debug|x64
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Debug|x86.Build.0 = Debug|Win32
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Release|x64.ActiveCfg = Release|x64
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Release|x64.Build.0 = Release|x64
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Release|x86.ActiveCfg = Release|Win32
+		{BB55A47A-E900-4056-B4D4-7F92E789B9F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
