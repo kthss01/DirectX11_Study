@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 08 - 마야 2011 모델
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 09 - 주변광", "Tut 09 - 주변광\Tut 09 - 주변광.vcxproj", "{75E6A22D-FB8C-4F1D-BCA1-12C427F49147}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 10 - 정반사광", "Tut 10 - 정반사광\Tut 10 - 정반사광.vcxproj", "{82DA1015-9451-47BC-936B-40F8EEF301DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{75E6A22D-FB8C-4F1D-BCA1-12C427F49147}.Release|x64.Build.0 = Release|x64
 		{75E6A22D-FB8C-4F1D-BCA1-12C427F49147}.Release|x86.ActiveCfg = Release|Win32
 		{75E6A22D-FB8C-4F1D-BCA1-12C427F49147}.Release|x86.Build.0 = Release|Win32
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Debug|x64.ActiveCfg = Debug|x64
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Debug|x64.Build.0 = Debug|x64
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Debug|x86.Build.0 = Debug|Win32
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x64.ActiveCfg = Release|x64
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x64.Build.0 = Release|x64
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x86.ActiveCfg = Release|Win32
+		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
