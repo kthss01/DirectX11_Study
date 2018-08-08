@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 09 - 주변광", "Tut 0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tut 10 - 정반사광", "Tut 10 - 정반사광\Tut 10 - 정반사광.vcxproj", "{82DA1015-9451-47BC-936B-40F8EEF301DB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fbx SDK Tutorial 01", "Fbx SDK Tutorial 01\Fbx SDK Tutorial 01.vcxproj", "{C78A078E-46AD-4EBE-8C15-9C68663361C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x64.Build.0 = Release|x64
 		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x86.ActiveCfg = Release|Win32
 		{82DA1015-9451-47BC-936B-40F8EEF301DB}.Release|x86.Build.0 = Release|Win32
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Debug|x64.ActiveCfg = Debug|x64
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Debug|x64.Build.0 = Debug|x64
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Debug|x86.Build.0 = Debug|Win32
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Release|x64.ActiveCfg = Release|x64
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Release|x64.Build.0 = Release|x64
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Release|x86.ActiveCfg = Release|Win32
+		{C78A078E-46AD-4EBE-8C15-9C68663361C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
